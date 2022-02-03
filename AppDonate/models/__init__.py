@@ -1,0 +1,1 @@
+from AppDonate.models.donation import Donation
