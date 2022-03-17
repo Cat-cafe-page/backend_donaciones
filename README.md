@@ -1,12 +1,12 @@
 # backend_donaciones
 
-El presente codigo permite al usuario crear, ver, editar o eliminar las reservas realizadas y al mismo tiempo gestionar los planes que se ofrecen a los turistas.
+El presente codigo permite al usuario crear y ver las donaciones realizadas por los clientes.
 
 Lo primero por hacer es clonar el repositorio:
 
 ```sh
-$ git clone https://github.com/MisionTic-P5-Grupo3/Bioparque_Frontend.git
-$ cd Backend_reservas
+$ git clone https://github.com/Cat-cafe-page/backend_donaciones.git
+$ cd Backend_donaciones
 ```
 
 Instala las dependencias:
